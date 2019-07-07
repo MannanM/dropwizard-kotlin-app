@@ -1,0 +1,6 @@
+testProp: abc
+
+# Part 5 - Connectivity
+haveIBeenPwnedUrl: https://api.pwnedpasswords.com
+httpClient:
+  userAgent: dropwizard-kotlin-app

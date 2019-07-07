@@ -1,0 +1,11 @@
+{
+  "query" : "foo-bar",
+  "prop" : "abc",
+  "number" : 123,
+  "bool" : false,
+  "array" : [ 456, 789 ],
+  "map" : {
+    "rate" : 11.5
+  },
+  "date" : "31-01-2019 10:20:42"
+}
