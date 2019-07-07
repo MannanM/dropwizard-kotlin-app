@@ -10,7 +10,7 @@ This is the source code repository for the series of Dropwizard Kotlin App tutor
 
 Source: http://mannanlive.com/2019/03/03/building-a-kotlin-dropwizard-maven-rest-api-from-scratch/
 
-Related Files: [pom.xml](pom.xml)`
+Related Files: [pom.xml](pom.xml)
 
 ### 2.0 Coding
 
@@ -78,3 +78,7 @@ Source: http://mannanlive.com/2019/03/16/building-a-kotlin-dropwizard-maven-rest
 
 Related Files: [pom.xml](pom.xml)~, [run.sh](run.sh)
 
+#### 3.2 Docker
+Source: http://mannanlive.com/2019/07/07/dropwizard-kotlin-in-a-docker-container/
+
+Related Files: [Dockerfile](Dockerfile), [run.sh](run.sh)~
